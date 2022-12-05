@@ -1,0 +1,19 @@
+body {
+  margin: 0px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 8px;
+}
+
+svg {
+  overflow: visible;
+}
+
+#banana {
+  transform-origin: 50% 50%;
+}
