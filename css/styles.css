@@ -14,6 +14,12 @@ svg {
   overflow: visible;
 }
 
-#banana {
+.bg_square {
+  opacity: 0;
+}
+
+#banana,
+#scallions,
+#milk_carton {
   transform-origin: 50% 50%;
 }
